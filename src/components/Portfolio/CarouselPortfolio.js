@@ -56,7 +56,7 @@ const items = [
     src: process.env.PUBLIC_URL+'/assets/img/i-pad-my-travels.png',
     altText: 'my-travels',
     title: 'My travels',
-    description: "Application web permettant de réaliser des carnets de voyages (projet personnel en cours de réalisation)",
+    description: "Application web permettant de publier des carnets de voyage (projet personnel en cours de réalisation)",
     tools: ["vue.js", "vuetify","leaflet", "nodes.js","Webdesign", "API"],
     link: '',
     github: ''

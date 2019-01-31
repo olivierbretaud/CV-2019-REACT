@@ -2,6 +2,7 @@
   "name": "cv-react-2018",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://olivierbretaud.info/",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "jquery": "^3.3.1",
